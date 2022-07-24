@@ -1,5 +1,6 @@
 package core;
 
+//hiee
 public class User {
 	private int uid;
 	private String name;
